@@ -64,13 +64,13 @@ Error generating stack: `+l.message+`
     hacker registration, and dynamic content fetched from the backend, including images, challenges, 
     sponsors, and FAQs. It supports push notifications, a spotlight carousel for ongoing events, 
     QR code check-ins for swag claims, and a built-in schedule. I specifically worked on the schedule page and the challenges/prizes selection page.
-  `,stack:["TypeScript","JavaScript"],sourceCode:"https://github.com/AndrewDmit04/NTHSHack-dev",image:"/img/NTHS.png"},{name:"Application of AI in Robots ",description:`
+  `,stack:["TypeScript","JavaScript"],sourceCode:"https://github.com/AndrewDmit04/NTHSHack-dev",image:"./img/NTHS.png"},{name:"Application of AI in Robots ",description:`
     I investigated socially assistive robots integrated with artificial intelligence (AI) and 
     explored simulation applications, including AWS Robomaker, Unity, and MATLAB Simulink. I tested 
     pick-and-place simulations in MATLAB and Unity to evaluate their compatibility with a humanoid robot 
     arm. My findings indicated that MATLAB Simulink was the most effective for demonstrating a pick-and-place 
     robot without relying on software preferences like Ubuntu. 
-  `,stack:["MATLAB Simulink"],image:"/img/robot.png"}],qf=["HTML","CSS","JavaScript","TypeScript","React","CI/CD","MATLAB","Python","SQL","Firebase"],Gh=[{title:"Medical Assistant",company:"Xenon Health",location:"Katy, TX",date:"August-December 2023",description:`
+  `,stack:["MATLAB Simulink"],image:"./img/robot.png"}],qf=["HTML","CSS","JavaScript","TypeScript","React","CI/CD","MATLAB","Python","SQL","Firebase"],Gh=[{title:"Medical Assistant",company:"Xenon Health",location:"Katy, TX",date:"August-December 2023",description:`
     Assisted with recording patient vitals after spinal injection procedures, as well as wheeling them out of the clinic. Other
 duties include placing EKG leads on the patients before their procedure. 
   `},{title:"Medical Scribe",company:"ScribeAmerica",location:"Katy, TX",date:"April 2022-November 2023",description:`
