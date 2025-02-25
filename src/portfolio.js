@@ -50,7 +50,7 @@ const projects = [
   `,
     stack: ['TypeScript', 'JavaScript'],
     sourceCode: 'https://github.com/AndrewDmit04/NTHSHack-dev',
-    image: '/img/NTHS.png',
+    image: './img/NTHS.png',
   },
   {
     name: 'Application of AI in Robots ',
@@ -62,7 +62,7 @@ const projects = [
     robot without relying on software preferences like Ubuntu. 
   `,
     stack: ['MATLAB Simulink'],
-    image: '/img/robot.png',
+    image: './img/robot.png',
   },
 ]
 
